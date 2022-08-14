@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TEST": {
+      "commandName": "Project"
+    },
+    "IIS": {
+      "commandName": "Executable"
+    }
+  }
+}
